@@ -1,2 +1,2 @@
 
-  <img align="center" src="https://img.inews.co.id/media/1200/files/inews_new/2018/Ilustrasi/bendera_tauhid.jpg">
+  <img align="center" src="https://png.pngtree.com/thumb_back/fh260/background/20241008/pngtree-breathtaking-panoramic-view-of-a-summer-landscape-featuring-majestic-waterfalls-charming-image_16334134.jpg">
