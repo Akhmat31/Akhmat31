@@ -4,7 +4,7 @@
 
 ```
 {
-   myname: "Muhammad Mahfudli Asyari,
+   myname: "Muhammad Mahfudli Asyari",
    age: 19,
    class: "XII TKJ 3",
    school: "SMKS Roudlotun Nasyiin"
