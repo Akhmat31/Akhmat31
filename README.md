@@ -10,6 +10,7 @@
    school: "SMKS Roudlotun Nasyiin"
 }
 ```
+
 for freelance work? do reach, [email](mailto:hanyaorangbiasa8892@gmail.com) :)
 
 📊 **this week i spent my time on:**
@@ -26,18 +27,17 @@ Markdown     9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what i do, maybe consider buying me a coffee/tea...
 
 <a href="https://www.buymeacoffee.com/Akhmat31" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
+
 🏆  Writing Routing system and mini frameworks           
 ✅  Completed tasks so far  
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akhmat31&show_icons=true&theme=gotham" alt="Akhmat31" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Akhmat31&show_icons=true&theme=gotham" alt="Akhmat31" />
 </p>
