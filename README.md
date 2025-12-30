@@ -37,7 +37,6 @@ if you like what i do, maybe consider buying me a coffee/tea...
 ✅  Completed tasks so far  
 
 
-📈 my github stats
+from me:...
 
- <img src="https://github-readme-stats.vercel.app/api?username=Akhmat31&show_icons=true&theme=gotham" alt="Akhmat31" />
-</p>
+<i>"Buat dirimu mengendalikan framework, bukan framework yang mengendalikan anda"<i>
