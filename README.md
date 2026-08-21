@@ -11,7 +11,7 @@
 }
 ```
 
-for freelance work? do reach, [email](mailto:hanyaorangbiasa8892@gmail.com) :)
+for freelance work? do reach, [email](mailto:mmahfudlia7@gmail.com) :)
 
 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -38,7 +38,5 @@ if you like what i do, maybe consider buying me a coffee/tea...
 > Writing Routing system and mini frameworks           
 > Completed tasks so far  
 
-
-from me:...
 
 <i>"Buat dirimu yang mengendalikan framework, bukan framework yang mengendalikan dirimu."<i>
