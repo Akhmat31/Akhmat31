@@ -6,8 +6,8 @@
 {
    myname   : "Muhammad Mahfudli Asyari",
    age      : 19,
-   class    : "XII TKJ 3",
-   school   : "SMKS Roudlotun Nasyiin"
+   class    : "----",
+   school   : "Alumni|Lulus|Unemployed"
 }
 ```
 
