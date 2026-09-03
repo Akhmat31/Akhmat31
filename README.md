@@ -1,11 +1,11 @@
  # Hello! welcome to my Github account
 
-```json
+```
 {
-   myname: "Muhammad Mahfudli Asyari",
-   age:    19,
-   gender: "Lelaki jantan",
-   school: "Alumni|Lulus|Unemployed"
+   myname:   "Muhammad Mahfudli Asyari",
+   age   :   19,
+   gender:   "Lelaki jantan",
+   school:   "Alumni|Lulus|Unemployed"
 }
 ```
 
