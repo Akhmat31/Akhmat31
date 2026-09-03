@@ -2,12 +2,12 @@
 
 <pre class="custom-code">
  <code>
- {
+  {
   <span class="key">"myname"</span>: <span class="string">"Muhammad Mahfudli Asyari"</span>,
   <span class="key">"age"</span>: <span class="number">19</span>,
   <span class="key">"gender"</span>: <span class="string">"Lelaki jantan"</span>,
   <span class="key">"school"</span>: <span class="string">"Alumni|Lulus|Unemployed"</span>
-}
+  }
 </code>
 </pre>
 
