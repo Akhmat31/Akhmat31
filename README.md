@@ -2,7 +2,7 @@
  
  # Hello! welcome to my Github account
 
-```
+```json
 {
    myname   : "Muhammad Mahfudli Asyari",
    age      : 19,
