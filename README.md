@@ -1,25 +1,3 @@
-<style>
-.custom-code {
-    background: #1e1e1e;
-    color: #d4d4d4;
-    padding: 16px;
-    border-radius: 8px;
-}
-
-.custom-code .key {
-    color: #9cdcfe;
-}
-
-.custom-code .string {
-    color: #ce9178;
-}
-
-.custom-code .number {
-    color: #b5cea8;
-}
-</style>
-<p align="center">
- 
  # Hello! welcome to my Github account
 
 <pre class="custom-code">
