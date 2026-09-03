@@ -4,10 +4,10 @@
 
 ```json
 {
-   myname   : "Muhammad Mahfudli Asyari",
-   age      : 19,
-   class    : "----",
-   school   : "Alumni|Lulus|Unemployed"
+   myname: "Muhammad Mahfudli Asyari",
+   age:    19,
+   gender: "Lelaki jantan",
+   school: "Alumni|Lulus|Unemployed"
 }
 ```
 
