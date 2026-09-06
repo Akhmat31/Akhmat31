@@ -1,4 +1,4 @@
-<img src="pler.png" width=200></img>
+<img src="pler.png"></img>
 
  # Hello! welcome to my Github account
 
