@@ -25,5 +25,3 @@ Other        15 mins         |   02.51 %
 ```
 
 <!--END_SECTION:waka-->
-
-<i>"Buat dirimu yang mengendalikan framework, bukan framework yang mengendalikan dirimu."<i>
