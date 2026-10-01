@@ -1,5 +1,3 @@
-<img src="pler.png"></img>
-
  # Hello! welcome to my Github account
 
 ```
